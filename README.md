@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yehonatan
-- 👀 I’m interested in all things AI, Automation, Integration, and Game Design
-- 🌱 I’m currently learning AI (Prompts and Applications), VBA, Mainframe & Web Scraping, and Sharepoint
+- 👋 Hi, I’m Yehonatan.
+- 👀 I’m interested in all things AI, Automation, Integration, and Game Design.
+- 🌱 I’m currently learning AI (Prompts and Applications), VBA, Mainframe & Web Scraping, GitHub, and Sharepoint.
 - 💞️ I’m (not) looking to collaborate at the moment.
 - 📫 How to reach me - ynachsho@gmail.com
 - 😄 Pronouns: 
